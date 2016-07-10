@@ -1,0 +1,18 @@
+﻿  源.cpp
+e:\algorithms\leetcode_step1\leetcode_step1\源.cpp(27): warning C4018: “<=”: 有符号/无符号不匹配
+e:\algorithms\leetcode_step1\leetcode_step1\源.cpp(29): warning C4018: “<”: 有符号/无符号不匹配
+e:\algorithms\leetcode_step1\leetcode_step1\源.cpp(78): warning C4018: “<”: 有符号/无符号不匹配
+e:\algorithms\leetcode_step1\leetcode_step1\源.cpp(82): warning C4018: “<”: 有符号/无符号不匹配
+e:\algorithms\leetcode_step1\leetcode_step1\源.cpp(86): warning C4018: “<”: 有符号/无符号不匹配
+e:\algorithms\leetcode_step1\leetcode_step1\源.cpp(105): warning C4018: “<”: 有符号/无符号不匹配
+e:\algorithms\leetcode_step1\leetcode_step1\源.cpp(114): warning C4018: “<”: 有符号/无符号不匹配
+e:\algorithms\leetcode_step1\leetcode_step1\源.cpp(143): warning C4018: “<”: 有符号/无符号不匹配
+e:\algorithms\leetcode_step1\leetcode_step1\源.cpp(159): warning C4018: “<”: 有符号/无符号不匹配
+e:\algorithms\leetcode_step1\leetcode_step1\源.cpp(182): warning C4018: “<”: 有符号/无符号不匹配
+e:\algorithms\leetcode_step1\leetcode_step1\源.cpp(195): warning C4018: “<”: 有符号/无符号不匹配
+e:\algorithms\leetcode_step1\leetcode_step1\源.cpp(217): warning C4018: “>”: 有符号/无符号不匹配
+e:\algorithms\leetcode_step1\leetcode_step1\源.cpp(223): warning C4018: “<”: 有符号/无符号不匹配
+e:\algorithms\leetcode_step1\leetcode_step1\源.cpp(237): warning C4018: “<”: 有符号/无符号不匹配
+e:\algorithms\leetcode_step1\leetcode_step1\源.cpp(243): warning C4018: “<”: 有符号/无符号不匹配
+  LeetCode_step1.vcxproj -> E:\Algorithms\LeetCode_step1\Debug\LeetCode_step1.exe
+  LeetCode_step1.vcxproj -> E:\Algorithms\LeetCode_step1\Debug\LeetCode_step1.pdb (Partial PDB)
