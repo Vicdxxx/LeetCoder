@@ -1,0 +1,7 @@
+﻿  源.cpp
+e:\algorithms\nimgame\nimgame\源.cpp(58): warning C4018: “<”: 有符号/无符号不匹配
+e:\algorithms\nimgame\nimgame\源.cpp(65): warning C4018: “<”: 有符号/无符号不匹配
+e:\algorithms\nimgame\nimgame\源.cpp(95): warning C4018: “<”: 有符号/无符号不匹配
+e:\algorithms\nimgame\nimgame\源.cpp(100): warning C4018: “<”: 有符号/无符号不匹配
+  NimGame.vcxproj -> E:\Algorithms\NimGame\Debug\NimGame.exe
+  NimGame.vcxproj -> E:\Algorithms\NimGame\Debug\NimGame.pdb (Partial PDB)
